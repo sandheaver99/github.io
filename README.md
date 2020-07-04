@@ -2,7 +2,7 @@
 
 Here you can find links to my projects and descriptions of each. 
 
-Pang is a exercise in recreating a Pong-like experience with a retro 70's arcade feel [Find Pang files here](https://github.com/sandheaver99/Pang) 
+**Pang** is a exercise in recreating a Pong-like experience with a retro 70's arcade feel [Find Pang files here](https://github.com/sandheaver99/Pang) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
